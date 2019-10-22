@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/black_2"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -15,21 +16,28 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:padding="5dp">
 
         <Button
             android:id="@+id/btn_home"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_margin="5dp"
             android:layout_weight="1"
-            android:text="Home" />
+            android:background="@drawable/btn_custom"
+            android:text="Home"
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/btn_about"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_margin="5dp"
             android:layout_weight="1"
-            android:text="About" />
+            android:background="@drawable/btn_custom"
+            android:text="About"
+            android:textColor="@color/white" />
     </LinearLayout>
 
 </LinearLayout>

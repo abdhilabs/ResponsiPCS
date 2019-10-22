@@ -5,6 +5,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
+    tools:background="@color/black_2"
     tools:context=".AboutFragment">
 
     <ImageView
@@ -17,6 +18,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
         android:text="Nama : M R Abdhi P"
+        android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold" />
 
@@ -24,6 +26,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="NIM : xx.xx.xxxx"
+        android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold" />
 
@@ -31,6 +34,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Kelas : IF 05"
+        android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold" />
 

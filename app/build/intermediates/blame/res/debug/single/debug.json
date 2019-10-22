@@ -400,6 +400,10 @@
         "source": "C:\\Users\\muham\\.gradle\\caches\\transforms-2\\files-2.1\\e7201af0ac6a1eb782d2b896d1ec4242\\media-1.0.0\\res\\layout\\notification_template_media_custom.xml"
     },
     {
+        "merged": "C:\\Users\\muham\\AndroidStudioProjects\\Project\\ResponsiPCS\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_error_page.xml.flat",
+        "source": "C:\\Users\\muham\\AndroidStudioProjects\\Project\\ResponsiPCS\\app\\src\\main\\res\\drawable\\ic_error_page.xml"
+    },
+    {
         "merged": "C:\\Users\\muham\\AndroidStudioProjects\\Project\\ResponsiPCS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\muham\\.gradle\\caches\\transforms-2\\files-2.1\\f5bdf8930f5b0dade80802408310dda6\\appcompat-1.1.0\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -1064,6 +1068,10 @@
         "source": "C:\\Users\\muham\\.gradle\\caches\\transforms-2\\files-2.1\\f5bdf8930f5b0dade80802408310dda6\\appcompat-1.1.0\\res\\color\\abc_search_url_text.xml"
     },
     {
+        "merged": "C:\\Users\\muham\\AndroidStudioProjects\\Project\\ResponsiPCS\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_login_page.xml.flat",
+        "source": "C:\\Users\\muham\\AndroidStudioProjects\\Project\\ResponsiPCS\\app\\src\\main\\res\\drawable\\ic_login_page.xml"
+    },
+    {
         "merged": "C:\\Users\\muham\\AndroidStudioProjects\\Project\\ResponsiPCS\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_checkbox_checked_to_unchecked_mtrl_animation.xml.flat",
         "source": "C:\\Users\\muham\\.gradle\\caches\\transforms-2\\files-2.1\\f5bdf8930f5b0dade80802408310dda6\\appcompat-1.1.0\\res\\drawable\\btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
     },
@@ -1456,6 +1464,10 @@
         "source": "C:\\Users\\muham\\.gradle\\caches\\transforms-2\\files-2.1\\f5bdf8930f5b0dade80802408310dda6\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\muham\\AndroidStudioProjects\\Project\\ResponsiPCS\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_custom.xml.flat",
+        "source": "C:\\Users\\muham\\AndroidStudioProjects\\Project\\ResponsiPCS\\app\\src\\main\\res\\drawable\\btn_custom.xml"
+    },
+    {
         "merged": "C:\\Users\\muham\\AndroidStudioProjects\\Project\\ResponsiPCS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\muham\\.gradle\\caches\\transforms-2\\files-2.1\\f5bdf8930f5b0dade80802408310dda6\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
@@ -1562,10 +1574,6 @@
     {
         "merged": "C:\\Users\\muham\\AndroidStudioProjects\\Project\\ResponsiPCS\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
         "source": "C:\\Users\\muham\\.gradle\\caches\\transforms-2\\files-2.1\\f5bdf8930f5b0dade80802408310dda6\\appcompat-1.1.0\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\muham\\AndroidStudioProjects\\Project\\ResponsiPCS\\app\\build\\intermediates\\res\\merged\\debug\\drawable_page_error.png.flat",
-        "source": "C:\\Users\\muham\\AndroidStudioProjects\\Project\\ResponsiPCS\\app\\src\\main\\res\\drawable\\page_error.png"
     },
     {
         "merged": "C:\\Users\\muham\\AndroidStudioProjects\\Project\\ResponsiPCS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
